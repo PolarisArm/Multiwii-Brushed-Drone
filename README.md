@@ -20,4 +20,4 @@ Brushed Drone with Multiwii
 ![alt text](Schematic_TRANSMITTER-WITH-ATMEGA328-VER-1.2_2026-09-10-1.png)
 
 # Transmitter
-![alt text](Transmitter-1.jpg)
+![alt text](Transmitter.jpg)
